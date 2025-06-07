@@ -1,0 +1,8 @@
+titulo: analizador de metadatos;
+tipo: documento;
+tamano: 10402;
+fecha: 2025-06-01;
+modificado: 2025-06-01;
+autor: Vedia Cristian;
+descripcion: Documento de prueba para la gramática de metadatos;
+etiquetas: prueba.documento;
