@@ -1,0 +1,7 @@
+titulo: Documento sin punto y coma final
+tipo: documento;
+tamano: 2048;
+modificado: 2025-06-06;
+autor: Gabriel Herrera;
+descripcion: Línea sin punto y coma
+etiquetas: test;

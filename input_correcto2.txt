@@ -1,0 +1,7 @@
+titulo: Manual de guitarra;
+tipo: pdf;
+tamano: 56789;
+modificado: 2021-12-31;
+autor: Juan Perez;
+descripcion: Este es un manual para los guitarristas;
+etiquetas: manual de guitarra pdf;

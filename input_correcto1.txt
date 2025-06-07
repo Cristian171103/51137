@@ -1,0 +1,7 @@
+titulo: Documento de pruebas;
+tipo: documento;
+tamano: 1024;
+modificado: 2025-06-06;
+autor: Vedia Cristian;
+descripcion: Documento de ejemplo para pruebas del analizador;
+etiquetas: test prueba antlr;

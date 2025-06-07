@@ -1,0 +1,7 @@
+titulo: Documento de prueba;
+tipo: documento;
+tamano: 5000;
+modificado: 25-06-2025;   <--- ERROR: formato de fecha inválido (debería ser YYYY-MM-DD)
+autor: Vedia Crstian;
+descripcion: Fecha mal escrita;
+etiquetas: prueba;
